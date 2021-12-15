@@ -6,3 +6,15 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: treeshap
+Version: 0.1.1
+Depends: R (>= 2.10)
+Imports: Rcpp, data.table, ggplot2
+LinkingTo: Rcpp
+Suggests: gbm, randomForest, ranger, xgboost,
+      lightgbm, catboost (>= 0.22), jsonlite,
+      testthat, scales
+License: GPL-3
+MD5sum: 44d6a2fc0147566ad69d4fb96515f24d
+NeedsCompilation: yes
