@@ -1,6 +1,6 @@
-# drat hosting of `treeshap` v0.1.1 
+# drat hosting of `treeshap`
 
-Hosting `treeshap` v0.1.1 so that `cheem` can point to it as a suggestion for CRAN submission. 
+Hosting `treeshap` v0.1.1 (commit 8049a5) so that `cheem` can point to it as a suggestion for CRAN submission. 
 
 [drat setup](https://eddelbuettel.github.io/drat/vignettes/dratstepbystep/) \
 [treeshap main repo](https://github.com/eddelbuettel/drat) \
